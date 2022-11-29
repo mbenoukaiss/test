@@ -1,4 +1,4 @@
-<img align="left" width="50" height="90" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon"/>
+<img align="left" width="70" height="90" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Clapet icon"/>
 
 # Clapet
 
