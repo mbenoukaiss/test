@@ -1,4 +1,4 @@
-<img align="left" width="50" height="50" style="margin-top:20px" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon">
+<img align="left" width="70" height="70" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon">
 
 # Clapet
 Clapet is a utility that aims to improve clamshell mode on your Macbook.
