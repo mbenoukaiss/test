@@ -1,6 +1,8 @@
-<img align="left" width="70" height="70" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon">
+<h1>
+  <img align="left" width="70" height="70" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon">
+  Clapet
+  </h1>
 
-# Clapet
 Clapet is a utility that aims to improve clamshell mode on your Macbook.
 
 Clamshell mode on mac keeps your mac awake when you close the lid but it 
