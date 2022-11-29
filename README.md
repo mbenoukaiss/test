@@ -1,7 +1,9 @@
-<h1>
-  <img align="left" width="50" height="50" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon">
-  Clapet
-  </h1>
+<table>
+  <tr>
+    <td valign="top"><<img align="left" width="50" height="50" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon"></td>
+    <td valign="top">Clapet</td>
+  </tr>
+</table>
 
 Clapet is a utility that aims to improve clamshell mode on your Macbook.
 
