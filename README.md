@@ -1,7 +1,7 @@
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top"><<img align="left" width="50" height="50" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon"></td>
-    <td valign="top">Clapet</td>
+    <td valign="top"><img align="left" width="50" height="50" src="https://raw.githubusercontent.com/mbenoukaiss/test/main/icon.svg" alt="Resume application project app icon"></td>
+    <td valign="top"><h1>Clapet</h1></td>
   </tr>
 </table>
 
